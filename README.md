@@ -11,7 +11,7 @@ This repository contains:
 ---
 
 ## 📁 Project Structure
-
+```
 demopolly/
 ├── apps/
 │ ├── api/ # Backend (NestJS or Node.js)
@@ -19,7 +19,7 @@ demopolly/
 ├── package.json # Root monorepo config
 ├── node_modules/
 └── README.md
-
+```
 
 ---
 
