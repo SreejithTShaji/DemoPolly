@@ -1,0 +1,83 @@
+.navBar {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(10px);
+  padding: 15px 0;
+  box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  margin-bottom: 30px;
+
+  .header_content {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .logo_icon {
+    width: 40px;
+    height: 40px;
+    background: #2d8f5f;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  .logo_text {
+    font-size: 28px;
+    font-weight: 700;
+    color: #2c3e50;
+    letter-spacing: -1px;
+  }
+
+  .user_actions {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-decoration: none;
+    display: inline-block;
+  }
+
+  .btn_primary {
+    background: #3498db;
+    color: white;
+  }
+
+  .btn_primary:hover {
+    background: #2980b9;
+    transform: translateY(-2px);
+  }
+
+  .btn_secondary {
+    background: transparent;
+    color: #2c3e50;
+    border: 2px solid #bdc3c7;
+  }
+
+  .btn_secondary:hover {
+    background: #2c3e50;
+    color: white;
+  }
+}
