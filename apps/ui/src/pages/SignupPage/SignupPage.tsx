@@ -92,7 +92,7 @@ function SignupPage() {
         </form>
 
         <div className={style.login_link}>
-          <a href="#">Already have an account? Log in</a>
+          <a href="/Login">Already have an account? Log in</a>
         </div>
       </div>
     </div>
