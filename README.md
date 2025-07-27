@@ -1,4 +1,5 @@
 # Demopolly 🗳️
+[Watch Demo Video](https://github.com/SreejithTShaji/DemoPolly/blob/main/Poll%20site%20Demo%20-%20Sreejith.mp4)
 
 A full-stack monorepo web application for creating and managing polls.
 
