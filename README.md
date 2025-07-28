@@ -90,3 +90,14 @@ npm run start:prod
 - [**NestJS**](https://nestjs.com/) — Progressive Node.js framework for building efficient server-side apps
 - [**npm Workspaces**](https://docs.npmjs.com/cli/v9/using-npm/workspaces) — Native monorepo support from npm
 - [**Concurrently**](https://www.npmjs.com/package/concurrently) — Run multiple npm scripts concurrently
+
+## AI-Assisted Development
+
+This project was developed with the assistance of AI-powered tools to improve productivity and code quality:
+
+- **GitHub Copilot (VS Code)** – Used for inline code suggestions, boilerplate generation, and faster implementation of repetitive tasks.  
+- **ChatGPT** – Used for debugging support, clarifying concepts, and exploring alternative solutions for certain functionalities.  
+- **Claude** – Utilized for code review insights and suggestions to improve readability and maintainability.  
+
+These tools helped speed up development, but all final decisions, testing, and validations were done manually to ensure accuracy and reliability of the code.
+
